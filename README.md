@@ -1,4 +1,5 @@
 # Formulário de Inscrição
+![formulario](https://github.com/user-attachments/assets/43ecef18-97a0-4193-a6ae-99c61d7d4086)
 
 Este projeto é um formulário de inscrição simples desenvolvido em React. O formulário coleta informações do usuário, como nome, e-mail e se ele concorda com os termos. A validação dos dados é feita antes do envio.
 
